@@ -1,0 +1,27 @@
+# Quartus build artifacts
+db/
+incremental_db/
+output_files/
+simulation/
+
+# Generated reports / logs
+*.rpt
+*.summary
+*.smsg
+*.log
+*.qmsg
+
+# Backup files
+*.bak
+
+# Temporary / cache
+*.jic
+*.pof
+*.sof
+*.sopcinfo
+*.qws
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
